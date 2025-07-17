@@ -1,4 +1,4 @@
-# Academic Management System — Full SQL Project
+# Academic Management System — SQL Project
 ---
 # Prepared by: Tarang Kashyap (katarang)
 
