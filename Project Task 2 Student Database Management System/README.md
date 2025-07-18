@@ -28,7 +28,7 @@ Address	TEXT	Student address
 Date_of_birth	DATE	Date of birth
 Gender	TEXT	Must be 'Male', 'Female', or 'Other'
 Major	TEXT	Major subject
-GPA	NUMERIC(3,2)	Must be between 0.00 and 4.00
+GPA	NUMERIC(3,2)	Must be between 0.00 and 10.00
 Grade	TEXT	Allowed: A, B, C, D, E, F
 
 ---
@@ -114,7 +114,7 @@ Gender restricted to Male, Female, Other.
 
 Grade restricted to A–F.
 
-GPA must be 0.00–4.00.
+GPA must be 0.00–10.00.
 
 email_id must be unique.
 
