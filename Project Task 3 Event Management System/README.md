@@ -211,12 +211,7 @@ psql or any SQL GUI
 
 ---
 
-# Highlights
-
-✅ Solid example of a relational event system
-✅ Demonstrates data integrity and relationship management
-✅ Practical reporting & analytics with SQL JOINs and AGGREGATE functions
-
+✅ All tasks have been tested and verified to run error-free in MySQL.
 
 ---
 ** Project is complete!**
